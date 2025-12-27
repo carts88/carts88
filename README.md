@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola, Person! 👋
+
+I am Carter, a freshman Computer Science student.
+
+I'm a big sports fan, and have always loved statistical side of sports. This interest has driven me too combine my personal interests with coding. 
+
+Currently I'm tinkering around with various languages such as Python, SQL for data analysis in addition to javascript/typescript framworks like React to bring a marketable and informative view to the data.
+
+As I build up my skills, I hope to release multiple evaluative, and informative NHL Tools from interactive calculators, to projection models.
 
 <!--
 **carts88/carts88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
