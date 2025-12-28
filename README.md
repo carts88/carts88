@@ -1,31 +1,34 @@
 ## Hola, Person! 👋
 
-My name is Carter, I'm a freshman Computer Science student!
+Hey! I’m **Carter**, a freshman **Computer Science** student with a strong interest in **sports analytics and data-driven decision making**.
 
-I'm a big sports fan and have always loved the statistical side of sports. This interest has driven me to get started in data analysis.
+I’ve always been drawn to the statistical side of sports, which naturally led me into **data analysis**. What started as building spreadsheets has since evolved into writing code and creating tools.
 
-For me, this started with building spreadsheets; however has now transitioned to coding.
+Currently, I’m working with:
+- **Python** and **SQL** for data analysis and modeling  
+- **JavaScript / TypeScript** and frameworks like **React** for data visualization and interactive tools  
 
-Currently, I'm tinkering around with various languages such as Python, SQL for data analysis, in addition to JavaScript/TypeScript frameworks like React, to complement the data analysis with data visualization. 
+As I continue to build my skill set, my goal is to release a collection of **NHL-focused analytical tools**, ranging from interactive calculators to projection and evaluation models.
 
-As I build up my skills, I hope to release multiple evaluative and informative NHL Tools from interactive calculators to projection models.
+---
 
-## Previous Projects! 👋
--> NHL Fantasy/Dynasty Spreadsheet - Basically, the sheet replicated normal fantasy hockey with twists, scores were based more on box score stats to create a modified version of gamescore (created by Dom Luszczyszyn of The Athletic). The stat was meant to quantify a player's value to a team getting points.
--> NHL Draft Consensus Sheet - This sheet includes rankings of popular draft pundits. Those rankings are then compiled into a weighted and unweighted consensus, with various data points available to show for each player, measuring how well the pundits like said players.
+## Previous Projects 🚀
 
+### 🏒 NHL Fantasy / Dynasty Spreadsheet
+A custom fantasy hockey system inspired by traditional formats, with a few twists:
+- Scoring heavily based on **box score statistics**
+- Designed to approximate a modified version of **Game Score**
+- Aimed to better quantify a player’s overall value to their team  
 
-<!--
-**carts88/carts88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*(Game Score originally developed by Dom Luszczyszyn of The Athletic)*
 
-Here are some ideas to get you started:
+### 📊 NHL Draft Consensus Sheet
+A draft analysis project that:
+- Aggregates rankings from popular draft pundits  
+- Produces **weighted and unweighted consensus rankings**
+- Includes additional data points to measure how strongly evaluators favor each prospect  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Always tinkering, always learning.*
+****
