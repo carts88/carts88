@@ -18,7 +18,7 @@ As I continue to build my skill set, my goal is to release a collection of **NHL
 A custom fantasy hockey system inspired by traditional formats, with a few twists:
 - Scoring heavily based on **box score statistics**
 - Designed to approximate a modified version of **Game Score**
-- Aimed to better quantify a player’s overall value to their team  
+- Aimed to quantify a player’s overall value to their team in terms of points
 
 *(Game Score originally developed by Dom Luszczyszyn of The Athletic)*
 
@@ -27,8 +27,3 @@ A draft analysis project that:
 - Aggregates rankings from popular draft pundits  
 - Produces **weighted and unweighted consensus rankings**
 - Includes additional data points to measure how strongly evaluators favor each prospect  
-
----
-
-*Always tinkering, always learning.*
-****
