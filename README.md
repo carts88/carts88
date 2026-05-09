@@ -1,6 +1,6 @@
-## Hola, Person! 👋
+## Hello! 👋
 
-Hey! I’m **Carter**, a freshman **Computer Science** student with a strong interest in **sports analytics and data-driven decision making**.
+I’m **Carter**, a sophmore **Computer Science** student with a strong interest in **sports analytics and data-driven decision making**.
 
 I’ve always been drawn to the statistical side of sports, which naturally led me into **data analysis**. What started as building spreadsheets has since evolved into writing code and creating tools.
 
